@@ -1,11 +1,22 @@
 body {
   margin: 0;
-  padding: 0;
+  padding: 5%;
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
     "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  height: 100%;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background: -webkit-linear-gradient( to left top, orange, red) fixed;
+  background: -moz-linear-gradient( to left top, orange, red) fixed;
+  background: -ms-linear-gradient( to left top, orange, red) fixed;
+  background: -o-linear-gradient( to left top, orange, red) fixed;
+  background: linear-gradient( to left top, orange, red) fixed;
 }
 
 code {
