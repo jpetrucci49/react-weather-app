@@ -1,3 +1,7 @@
+# React Weather App
+
+This Weather app will be built using the weather api found at https://www.apixu.com/ for current, future, and past weather details. Version 1 will use a single form field to take the desired location for a weather update.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
